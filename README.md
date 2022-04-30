@@ -1,8 +1,12 @@
 ## Hi there 👋
+
 I’m Geehoon who enjoy learning experiences. 🚀 <br />
-I feel enthusiastic about designing and creating things.
+I feel enthusiastic about designing and creating new things. 🔧
 
 ## 💪 Skills
+
+
+
 <p>
   <img src="https://img.shields.io/badge/JavaScriipt-F7DF1E?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Git&logoColor=white"/>
@@ -18,4 +22,4 @@ I feel enthusiastic about designing and creating things.
 </p>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunggeehoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunggeehoon&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
