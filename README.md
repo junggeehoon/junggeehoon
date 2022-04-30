@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Geehoon who enjoy learning experienc.
+I’m Geehoon who enjoy learning experiences. 🚀 <br />
 I feel enthusiastic about designing and creating things.
 
 ## 💪 Skills
